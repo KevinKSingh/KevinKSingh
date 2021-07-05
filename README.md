@@ -8,3 +8,11 @@
 KevinKSingh/KevinKSingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+A little information on the files that I have uploaded. 
+
+"cricket.py" is a Python script where I was trying to learn how to use numpy, matplotlib and pandas to post process and display cricket statistics from my own games in a nice way. For example, I wanted to know how much I averaged in the second innings of the game vs the first, or see how many runs I scored at a certain position or even month. This reads in a csv file where all the data is stored first. 
+
+"solver_direct_mean.cpp" and "geometry_structure.cpp" are C++ codes from SU2 where I had implemented the necessary data structures and algorithms to successfully carry out the WENO reconstruction method in SU2 for a third and fifth order accurate scheme. 
+
+"scrabble3.cpp" was a simple C++ script I made years ago to keep score of a game of scrabble involving 4 players. 
