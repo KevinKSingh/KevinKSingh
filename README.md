@@ -16,3 +16,5 @@ A little information on the files that I have uploaded.
 "solver_direct_mean.cpp" and "geometry_structure.cpp" are C++ codes from SU2 where I had implemented the necessary data structures and algorithms to successfully carry out the WENO reconstruction method in SU2 for a third and fifth order accurate scheme. 
 
 "scrabble3.cpp" was a simple C++ script I made years ago to keep score of a game of scrabble involving 4 players. 
+
+"league_stats.py" is me trying to learn how to use Python to fetch data from the Riot Games API for League of Legends to better learn how to use Data Science capabilities of Python by studying my own ranked games over my League accounts. 
