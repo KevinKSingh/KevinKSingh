@@ -5,7 +5,7 @@ import scipy
 import matplotlib.pyplot as plt
 
 #Global Variables
-api_key = 'RGAPI-af3ca4c2-dae0-4a02-a06c-b2ced99ec989'
+api_key = 'arandomkey'
 watcher = LolWatcher(api_key)
 my_region = 'euw1'
 main_account = 'Marus Child'
